@@ -176,7 +176,9 @@ section{
         height:100vh;
     }
     body{
-        overflow-x:hidden;}
+        overflow-x:hidden;
+        overflow-y:hidden;
+    }
     nav{
         height:65px;
         
