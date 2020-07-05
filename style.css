@@ -186,7 +186,7 @@ section{
     .home .inner img{
         padding-top:40px;
     }
-    .about .inner,.certification .inner{
+    .education .inner div,.certification .inner div{
         width:50%;}
     .about .inner p{
         font-size:32px;
